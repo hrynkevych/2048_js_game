@@ -1,4 +1,4 @@
-**2048 Game Project**
+**Web-based implementation of the popular game**
 
 **Project Description**
 
